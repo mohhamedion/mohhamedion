@@ -4,7 +4,7 @@ I'm a passionate PHP programmer with expertise in **Laravel** and **WordPress**.
 
 ## About Me
 
-- **Programming Languages**: PHP, JavaScript, Go
+- **Programming Languages**: PHP, JavaScript
 - **Frameworks**: Laravel, WordPress
 - **Interests**: Exploring new technologies, playing around with Go and JavaScript, and creating simple scripts for various purposes.
 
