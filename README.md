@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**mohhamedion/mohhamedion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate PHP programmer with expertise in **Laravel** and **WordPress**. I also enjoy creating custom **WordPress plugins** to enhance website functionality and user experience.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: PHP, JavaScript, Go
+- **Frameworks**: Laravel, WordPress
+- **Interests**: Exploring new technologies, playing around with Go and JavaScript, and creating simple scripts for various purposes.
+
+## Get in Touch
+
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mohamad-alasaly-970247222/)
+- **Email**: mohhamedion@gmail.com
+
+Feel free to explore my GitHub profile for more information, and if you'd like to collaborate or have any questions, don't hesitate to reach out. I'm always open to new opportunities and interesting discussions!
+
+Thanks for visiting my GitHub profile! 😊
