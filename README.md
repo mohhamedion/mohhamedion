@@ -15,4 +15,4 @@ I'm a passionate PHP programmer with expertise in **Laravel** and **WordPress**.
 
 Feel free to explore my GitHub profile for more information, and if you'd like to collaborate or have any questions, don't hesitate to reach out. I'm always open to new opportunities and interesting discussions!
 
-Thanks for visiting my GitHub profile! 😊
+
