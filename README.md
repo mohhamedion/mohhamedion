@@ -6,6 +6,7 @@ I'm a passionate PHP programmer with expertise in **Laravel** and **WordPress**.
 
 - **Game Development**: I enjoy creating simple games using Unity and C#.
 - **AI Exploration**: I have a keen interest in exploring the AI world and understanding its intricacies.
+- **Golang Tools**: I also like creating tools with Golang to enhance my workflow and boost productivity.
 
 ## About Me
 
